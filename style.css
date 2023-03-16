@@ -15,7 +15,7 @@ html{
 .search-bar{
     width: 100%;
     max-width: 700px;
-    background-color: rgba(255,255,255,0.2);
+    background-color: rgba(7,7,7);
     display: flex;
     align-content: center;
     border-radius: 60px;
@@ -31,7 +31,7 @@ html{
     color: #cac7ff;
 }
 :placeholder{
-    color: #cac7ff;
+    color: #be02f7;
 }
 .search-bar button img{
     width: 25px;
@@ -41,6 +41,6 @@ html{
     border-radius: 50%;
     width: 60px;
     height: 60px;
-    background-color: #cac7ff;
+    background-color: #be02f7;
     cursor: pointer;
 }
